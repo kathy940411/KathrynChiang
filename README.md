@@ -8,10 +8,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 _Statistics Data Technologies (STA141b) Assignments:_
 [Assignment 1](https://github.com/kathy940411/KathrynChiang/blob/master/assignment1.ipynb)
+
 [Assignment 2](https://github.com/kathy940411/KathrynChiang/blob/master/assignment2.ipynb)
+
 [Assignment 3](https://github.com/kathy940411/KathrynChiang/blob/master/assignment3.ipynb)
+
 [Assignment 4](https://github.com/kathy940411/KathrynChiang/blob/master/assignment4.ipynb)
+
 [Assignment 5](https://github.com/kathy940411/KathrynChiang/blob/master/assignment5.ipynb)
+
 [Assignment 6](https://github.com/kathy940411/KathrynChiang/blob/master/assignment6.ipynb)
 
 
