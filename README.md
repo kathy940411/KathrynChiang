@@ -14,7 +14,7 @@ github: https://github.com/kathy940411
 
 __Exploratory Data Analysis Project__
 <p>
-This is our final project for STA 141B. We have a group of four members, and I am one of the four. For this project, we decided to focus on earthquakes. We thought of some different questions for this earthquake project, and we want to use the skills we learned in STA 141B to answer the questions. All four of us use four significant datasets. There are four parts for this project. The 4 parts are listed below:</p>
+This is our final project for STA 141B. I worked with three other group members, Karthika Pai, An Qi Ma, and Natalie Marcom for this project. The project is focusing on earthquakes. We thought of some different questions about earthquakes. Our goal is to answer these questions by using the skills we learned in STA 141B. All four of us use four significant datasets, so we divided the project into four parts. You can view our project by simply clicking on the 4 parts that are listed below:</p>
 
 1. [Earthquakes in the World](https://github.com/karthikapai/earthquakes/blob/master/Earthquakes%20in%20the%20World%20(Part%201).ipynb)
 
