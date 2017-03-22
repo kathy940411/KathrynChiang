@@ -1,8 +1,9 @@
 
 
-<center>[github](https://github.com/kathy940411)</center>
+<p align="center">
+[github](https://github.com/kathy940411)
 
-<center>email: kchiang@ucdavis.edu</center>
+email: kchiang@ucdavis.edu</p>
 
 ## Welcome to My GitHub Page
 
