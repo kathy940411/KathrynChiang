@@ -38,7 +38,7 @@ In this assignment,
 
 ### Lab Assignments
 
-_Discussion Assignments:_
+__Discussion Assignments:__
 
 [Laboratory 1](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%202.ipynb)
 
