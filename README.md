@@ -58,7 +58,7 @@ For this assignment, I learn to use the basemap package to plot out the world ma
 __Discussion Assignments:__
 Those are some assignments that we need to finish by the end of the week using the techniques we learned in discussions.
 
-+ [Laboratory 1](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%202.ipynb)
++ [Laboratory 1](https://github.com/kathy940411/KathrynChiang/blob/master/Lab2.ipynb)
 
 + [Laboratory 2](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%203.ipynb)
 
