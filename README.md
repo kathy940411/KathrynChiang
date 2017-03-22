@@ -21,18 +21,25 @@ This is our final project for STA 141B. We have a group of four members, and I a
 __Statistics Data Technologies (STA141b) Assignments:__
 
 + [Assignment 1](https://github.com/kathy940411/KathrynChiang/blob/master/assignment1.ipynb)
-
-In this assignment, we used some algorithms and basic Python languages like, strings, splits, read, dictionaries, looping, and create functions.
-
+<p>
+In this assignment, I used some algorithms and basic Python languages like, strings, splits, read, dictionaries, looping, and create functions.
+</p>
 + [Assignment 2](https://github.com/kathy940411/KathrynChiang/blob/master/assignment2.ipynb)
-
-In this assignment, 
-
+<p>
+In this assignment, I learned how to use numpy and matrix (singular value decomposition) to change the color, resolution, settings, etc. of a cat image.
+</p>
 + [Assignment 3](https://github.com/kathy940411/KathrynChiang/blob/master/assignment3.ipynb)
-
+<p>
+For this assignment, I learned how to work with a significant amount of csv files by using os and os.path package in Python. I also learned ways to analyze a dataframe by using matplotlib package to plot them out. 
+</p>
 + [Assignment 4](https://github.com/kathy940411/KathrynChiang/blob/master/assignment4.ipynb)
 
+In this assignment, I learned to use API to get the desired information from [USDA Food Composition Databases](https://ndb.nal.usda.gov/ndb/search/list). Thus, the extracted information from USDA can be recreate to a dataframe column and combine with my previous assignment (3) to form a more informative dataframe. Further, by using the new dataframe, I can answer some questions regarding nutrition values for fruits and vegetables.
+
 + [Assignment 5](https://github.com/kathy940411/KathrynChiang/blob/master/assignment5.ipynb)
+
+In this assignment, I would scrape text form [The California Aggie](https://theaggie.org/) by using BeautifulSoup package and some other techniques to filter the symbols, stopwords, etc.
+then analyzie the text.
 
 + [Assignment 6](https://github.com/kathy940411/KathrynChiang/blob/master/assignment6.ipynb)
 
