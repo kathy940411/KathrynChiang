@@ -1,7 +1,9 @@
 
 
 <p align="center">
-[github](https://github.com/kathy940411)
+<b>github</b><br>
+<a href="#">https://github.com/kathy940411</a>
+<br>
 
 email: kchiang@ucdavis.edu</p>
 
