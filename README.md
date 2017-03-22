@@ -12,7 +12,7 @@ github: https://github.com/kathy940411
 
 ### Projects
 
-# Exploratory Data Analysis Project
+__Exploratory Data Analysis Project__
 <p>
 This is our final project for STA 141B. We have a group of four members, and I am one of the four. For this project, we decided to focus on earthquakes. We thought of some different questions for this earthquake project, and we want to use the skills we learned in STA 141B to answer the questions. All four of us use four significant datasets. There are four parts for this project. The parts are listed below:</p>
 
