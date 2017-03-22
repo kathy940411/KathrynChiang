@@ -1,22 +1,22 @@
 
 
-<dl>
-  <dt>My Github Page</dt>
+<p align="center"><dl>
+  <dt>Github</dt>
   <dd><a href="">https://github.com/kathy940411</a></dd>
 
   <dt>E-mail</dt>
   <dd>kchiang@ucdavis.edu</dd>
-</dl>
+</dl></p>
 
-## Welcome to My GitHub Page
+## About Me & This Page
 
-You can use the  to maintain and preview the content for your website in Markdown files.
+I am a statistics student in University of California, Davis. During my freshman year in college, I was majoring in Animal Science. However, I found statistics interesting, so I changed my major to Applied Statistics. Now, I am graduating with a Bachelor of Science in Applied Statistics. Statistics 141B, a Statistics Data Technologies course, is one of the best course I have taken in UC Davis. This course refreshes my coidng skills which I can apply it directly to my current job by helping Dr. Kim, a postdoc in the Genetic Laboratory, analyzes her research on rice molecular genetics in Python. The purpose of this webpage is to show the work I have done in Statistics 141B course. Here are some projects and assignments links attached down below!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Projects 
+[Exploratory Data Analysis Project](https://github.com/karthikapai/earthquakes)
 
-
+This is our final project for STA 141B. We have a group of four members, and I am one of the four. For this project, we decided to focus on earthquakes. We thought of some different questions for this earthquake project, and we want to use the skills we learned in STA 141B to answer the questions. All four of us use four significant datasets, earthquakes in the world , earthquakes in the USA, earthquakes relationships with tsunamis and volcanos.
 
 ### Assignments
 
@@ -36,30 +36,4 @@ _Statistics Data Technologies (STA141b) Assignments:_
 
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kathy940411/KathrynChiang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
