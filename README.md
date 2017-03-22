@@ -1,12 +1,23 @@
+
+
+[github](https://github.com/kathy940411)
+
+email: kchiang@ucdavis.edu
+
 ## Welcome to My GitHub Page
 
 You can use the  to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Projects and Assignments
+### Projects 
+
+
+
+### Assignments
 
 _Statistics Data Technologies (STA141b) Assignments:_
+
 [Assignment 1](https://github.com/kathy940411/KathrynChiang/blob/master/assignment1.ipynb)
 
 [Assignment 2](https://github.com/kathy940411/KathrynChiang/blob/master/assignment2.ipynb)
