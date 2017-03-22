@@ -18,7 +18,7 @@ This is our final project for STA 141B. We have a group of four members, and I a
 
 ### Assignments
 
-_Statistics Data Technologies (STA141b) Assignments:_
+__Statistics Data Technologies (STA141b) Assignments:__
 
 [Assignment 1](https://github.com/kathy940411/KathrynChiang/blob/master/assignment1.ipynb)
 
