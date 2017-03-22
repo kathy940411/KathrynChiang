@@ -1,9 +1,10 @@
 
 
-<p align="center"><dl>
-  <dt>E-mail</dt>
-  <dd>kchiang@ucdavis.edu</dd>
-</dl></p>
+<p align="center">
+E-mail: kchiang@ucdavis.edu
+
+[github:](https://github.com/kathy940411)
+</p>
 
 ## About Me & This Page
 
