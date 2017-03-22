@@ -1,12 +1,19 @@
 
 
 <p align="center">
-<b>github page:</b><br>
-<a href="#">https://github.com/kathy940411</a>
+<b>my github page:</b><br>
+<a href="">https://github.com/kathy940411</a>
 <br><br>
-
 email: kchiang@ucdavis.edu</p>
 
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 ## Welcome to My GitHub Page
 
 You can use the  to maintain and preview the content for your website in Markdown files.
