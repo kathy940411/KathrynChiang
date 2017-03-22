@@ -8,7 +8,7 @@ github: https://github.com/kathy940411
 
 ## About Me & This Page
 
-<p>Hello, my name is <b>Kathryn Chiang</b>. I am a statistics student in University of California, Davis. During my freshman year in college, I was majoring in Animal Science. However, I found statistics interesting, so I changed my major to Applied Statistics. Now, I am graduating with a Bachelor of Science in Applied Statistics. Statistics 141B, a Statistics Data Technologies course, is one of the best course I have taken in UC Davis. This course refreshes my coidng skills which I can apply it directly to my current job by helping Dr. Kim, a postdoc in the Genetic Laboratory, analyzes her research on rice molecular genetics in Python. The purpose of this webpage is to show the work I have done in Statistics 141B course. Some projects and assignments links are attached down below!</p>
+<p>Hello, my name is Kathryn Chiang. I am a statistics student in University of California, Davis. During my freshman year in college, I was majoring in Animal Science. However, I found statistics interesting, so I changed my major to Applied Statistics. Now, I am graduating with a Bachelor of Science in Applied Statistics. Statistics 141B, a Statistics Data Technologies course, is one of the best course I have taken in UC Davis. This course refreshes my coidng skills which I can apply it directly to my current job by helping Dr. Kim, a postdoc in the Genetic Laboratory, analyzes her research on rice molecular genetics in Python. The purpose of this webpage is to show the work I have done in Statistics 141B course. Some projects and assignments links are attached down below!</p>
 
 ### Projects
 
@@ -20,31 +20,31 @@ This is our final project for STA 141B. We have a group of four members, and I a
 
 __Statistics Data Technologies (STA141b) Assignments:__
 
-[Assignment 1](https://github.com/kathy940411/KathrynChiang/blob/master/assignment1.ipynb)
++[Assignment 1](https://github.com/kathy940411/KathrynChiang/blob/master/assignment1.ipynb)
 
 In this assignment, we used some algorithms and basic Python languages like, strings, splits, read, dictionaries, looping, and create functions.
 
-[Assignment 2](https://github.com/kathy940411/KathrynChiang/blob/master/assignment2.ipynb)
++[Assignment 2](https://github.com/kathy940411/KathrynChiang/blob/master/assignment2.ipynb)
 
 In this assignment, 
 
-[Assignment 3](https://github.com/kathy940411/KathrynChiang/blob/master/assignment3.ipynb)
++[Assignment 3](https://github.com/kathy940411/KathrynChiang/blob/master/assignment3.ipynb)
 
-[Assignment 4](https://github.com/kathy940411/KathrynChiang/blob/master/assignment4.ipynb)
++[Assignment 4](https://github.com/kathy940411/KathrynChiang/blob/master/assignment4.ipynb)
 
-[Assignment 5](https://github.com/kathy940411/KathrynChiang/blob/master/assignment5.ipynb)
++[Assignment 5](https://github.com/kathy940411/KathrynChiang/blob/master/assignment5.ipynb)
 
-[Assignment 6](https://github.com/kathy940411/KathrynChiang/blob/master/assignment6.ipynb)
++[Assignment 6](https://github.com/kathy940411/KathrynChiang/blob/master/assignment6.ipynb)
 
 ### Lab Assignments
 
 __Discussion Assignments:__
 
-[Laboratory 1](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%202.ipynb)
++[Laboratory 1](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%202.ipynb)
 
-[Laboratory 2](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%203.ipynb)
++[Laboratory 2](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%203.ipynb)
 
-[Laboratory 3](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%204.ipynb)
++[Laboratory 3](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%204.ipynb)
 
 
 
