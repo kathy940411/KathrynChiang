@@ -1,16 +1,13 @@
 
 
 <p align="center"><dl>
-  <dt>Github</dt>
-  <dd><a href="">https://github.com/kathy940411</a></dd>
-
   <dt>E-mail</dt>
   <dd>kchiang@ucdavis.edu</dd>
 </dl></p>
 
 ## About Me & This Page
 
-I am a statistics student in University of California, Davis. During my freshman year in college, I was majoring in Animal Science. However, I found statistics interesting, so I changed my major to Applied Statistics. Now, I am graduating with a Bachelor of Science in Applied Statistics. Statistics 141B, a Statistics Data Technologies course, is one of the best course I have taken in UC Davis. This course refreshes my coidng skills which I can apply it directly to my current job by helping Dr. Kim, a postdoc in the Genetic Laboratory, analyzes her research on rice molecular genetics in Python. The purpose of this webpage is to show the work I have done in Statistics 141B course. Here are some projects and assignments links attached down below!
+<p>Hello, my name is <b>Kathryn Chiang</b>. I am a statistics student in University of California, Davis. During my freshman year in college, I was majoring in Animal Science. However, I found statistics interesting, so I changed my major to Applied Statistics. Now, I am graduating with a Bachelor of Science in Applied Statistics. Statistics 141B, a Statistics Data Technologies course, is one of the best course I have taken in UC Davis. This course refreshes my coidng skills which I can apply it directly to my current job by helping Dr. Kim, a postdoc in the Genetic Laboratory, analyzes her research on rice molecular genetics in Python. The purpose of this webpage is to show the work I have done in Statistics 141B course. Some projects and assignments links are attached down below!</p>
 
 ### Projects
 
@@ -24,7 +21,11 @@ _Statistics Data Technologies (STA141b) Assignments:_
 
 [Assignment 1](https://github.com/kathy940411/KathrynChiang/blob/master/assignment1.ipynb)
 
+In this assignment, we used some algorithms and basic Python languages like, strings, splits, read, dictionaries, looping, and create functions.
+
 [Assignment 2](https://github.com/kathy940411/KathrynChiang/blob/master/assignment2.ipynb)
+
+In this assignment, 
 
 [Assignment 3](https://github.com/kathy940411/KathrynChiang/blob/master/assignment3.ipynb)
 
@@ -34,6 +35,15 @@ _Statistics Data Technologies (STA141b) Assignments:_
 
 [Assignment 6](https://github.com/kathy940411/KathrynChiang/blob/master/assignment6.ipynb)
 
+### Lab Assignments
+
+_Discussion Assignments:_
+
+[Laboratory 1](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%202.ipynb)
+
+[Laboratory 2](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%203.ipynb)
+
+[Laboratory 3](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%204.ipynb)
 
 
 
