@@ -20,31 +20,31 @@ This is our final project for STA 141B. We have a group of four members, and I a
 
 __Statistics Data Technologies (STA141b) Assignments:__
 
-+[Assignment 1](https://github.com/kathy940411/KathrynChiang/blob/master/assignment1.ipynb)
++ [Assignment 1](https://github.com/kathy940411/KathrynChiang/blob/master/assignment1.ipynb)
 
 In this assignment, we used some algorithms and basic Python languages like, strings, splits, read, dictionaries, looping, and create functions.
 
-+[Assignment 2](https://github.com/kathy940411/KathrynChiang/blob/master/assignment2.ipynb)
++ [Assignment 2](https://github.com/kathy940411/KathrynChiang/blob/master/assignment2.ipynb)
 
 In this assignment, 
 
-+[Assignment 3](https://github.com/kathy940411/KathrynChiang/blob/master/assignment3.ipynb)
++ [Assignment 3](https://github.com/kathy940411/KathrynChiang/blob/master/assignment3.ipynb)
 
-+[Assignment 4](https://github.com/kathy940411/KathrynChiang/blob/master/assignment4.ipynb)
++ [Assignment 4](https://github.com/kathy940411/KathrynChiang/blob/master/assignment4.ipynb)
 
-+[Assignment 5](https://github.com/kathy940411/KathrynChiang/blob/master/assignment5.ipynb)
++ [Assignment 5](https://github.com/kathy940411/KathrynChiang/blob/master/assignment5.ipynb)
 
-+[Assignment 6](https://github.com/kathy940411/KathrynChiang/blob/master/assignment6.ipynb)
++ [Assignment 6](https://github.com/kathy940411/KathrynChiang/blob/master/assignment6.ipynb)
 
 ### Lab Assignments
 
 __Discussion Assignments:__
 
-+[Laboratory 1](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%202.ipynb)
++ [Laboratory 1](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%202.ipynb)
 
-+[Laboratory 2](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%203.ipynb)
++ [Laboratory 2](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%203.ipynb)
 
-+[Laboratory 3](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%204.ipynb)
++ [Laboratory 3](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%204.ipynb)
 
 
 
