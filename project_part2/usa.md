@@ -4,7 +4,6 @@
 
 
 ```python
-
 import matplotlib.pyplot as plt
 import matplotlib.cm
 import numpy as np
@@ -18,7 +17,7 @@ from mpl_toolkits.basemap import Basemap
 from matplotlib.patches import Polygon
 ```
 
-<i>Those are some functions I use for this dataset. We will call the functions later in the project.</i>
+_Those are some functions I use for this dataset. We will call the functions later in the project._
 
 
 ```python
