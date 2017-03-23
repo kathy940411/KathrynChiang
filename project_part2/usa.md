@@ -1,6 +1,6 @@
 
-<h1>Earthquakes in the USA<h1/>
-<h3>Part 2 By Kathryn Chiang</h3>
+# Earthquakes in the USA
+### Part 2 By Kathryn Chiang
 
 
 ```python
