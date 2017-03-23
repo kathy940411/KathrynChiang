@@ -28,27 +28,27 @@ This is our final project for STA 141B. I worked with three other group members,
 
 __Statistics Data Technologies (STA141b) Assignments:__
 
-+ [Assignment 1](https://github.com/kathy940411/KathrynChiang/blob/master/assignment1.ipynb)
++ [Assignment 1](https://kathy940411.github.io/KathrynChiang/assignment1)
 
 In this assignment, I used some algorithms and basic Python languages like, strings, splits, read, dictionaries, looping, and create functions.
 
-+ [Assignment 2](https://github.com/kathy940411/KathrynChiang/blob/master/assignment2.ipynb)
++ [Assignment 2](https://kathy940411.github.io/KathrynChiang/assignment2/assignment2)
 
 In this assignment, I learn to use numpy and matrix (singular value decomposition) to change the color, resolution, settings, etc. of a cat image.
 
-+ [Assignment 3](https://github.com/kathy940411/KathrynChiang/blob/master/assignment3.ipynb)
++ [Assignment 3](https://kathy940411.github.io/KathrynChiang/assignment3/assignment3)
 
 For this assignment, I learn to work with a significant amount of csv files by using os and os.path package in Python. I also learned ways to analyze a dataframe by using matplotlib package to plot them out. 
 
-+ [Assignment 4](https://github.com/kathy940411/KathrynChiang/blob/master/assignment4.ipynb)
++ [Assignment 4](https://kathy940411.github.io/KathrynChiang/assignment4/assignment4)
 
 In this assignment, I learn to use API to get the desired information from [USDA Food Composition Databases](https://ndb.nal.usda.gov/ndb/search/list). Thus, the extracted information from USDA can be recreate to a dataframe column and combine with my previous assignment (3) to form a more informative dataframe. Further, by using the new dataframe, I can answer some questions regarding nutrition values for fruits and vegetables.
 
-+ [Assignment 5](https://github.com/kathy940411/KathrynChiang/blob/master/assignment5.ipynb)
++ [Assignment 5](https://kathy940411.github.io/KathrynChiang/assignment5/assignment5)
 
 In this assignment, I would scrape text form [The California Aggie](https://theaggie.org/) by using BeautifulSoup package and some other techniques to filter the symbols, stopwords, etc. The purpose of this assignment is by getting the frequencies of the filtered words, so I will know which topic cover the most in the website or further analysis on different questions.
 
-+ [Assignment 6](https://github.com/kathy940411/KathrynChiang/blob/master/assignment6.ipynb)
++ [Assignment 6](https://kathy940411.github.io/KathrynChiang/assignment6/assignment6)
 
 For this assignment, I learn to use the basemap package to plot out the world map and combine shapfile with basemap to drawout the city of San Francisco. Also, I learn sql to collect data sets from the [San Francisco Open Data Portal](https://data.sfgov.org/) to answer some question on the assignment.
 
@@ -58,11 +58,11 @@ For this assignment, I learn to use the basemap package to plot out the world ma
 __Discussion Assignments:__
 Those are some assignments that we need to finish by the end of the week using the techniques we learned in discussions.
 
-+ [Laboratory 1](https://github.com/kathy940411/KathrynChiang/blob/master/Lab2.ipynb)
++ [Laboratory 1](https://kathy940411.github.io/KathrynChiang/Lab+2)
 
-+ [Laboratory 2](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%203.ipynb)
++ [Laboratory 2](https://kathy940411.github.io/KathrynChiang/Lab+3/Lab%203)
 
-+ [Laboratory 3](https://github.com/kathy940411/KathrynChiang/blob/master/Lab%204.ipynb)
++ [Laboratory 3](https://kathy940411.github.io/KathrynChiang/Lab+4/Lab%204)
 
 
 
