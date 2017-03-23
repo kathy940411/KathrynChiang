@@ -192,7 +192,7 @@ It seems like earthquakes are distributed around naturally occuring fault lines 
 
 
 ```python
-fig = plt.figure(figsize=(20,20))
+fig = (figsize=(20,20))
 plt.title("Significant Earthquakes from 1965 - 2016")
 m.scatter(x,y, s = 100, c = "maroon")
 m.drawcoastlines()
@@ -8687,7 +8687,12 @@ def earth_near(lons, lats, magnitude, min_marker_size=2):
 
 ```
 
+##### Legend for Plot:
+<p>* means Earthquake</p>
 
+<p>o means Volcano</p>
+
+<p>Line means Plate Boundary</p>
 
 ```python
 plt.figure(figsize=(15, 12))
