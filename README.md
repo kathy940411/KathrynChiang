@@ -16,13 +16,13 @@ __Exploratory Data Analysis Project__
 <p>
 This is our final project for STA 141B. I worked with three other group members, Karthika Pai, An Qi Ma, and Natalie Marcom for this project. The project is focusing on earthquakes. We thought of some different questions about earthquakes. Our goal is to answer these questions by using the skills we learned in STA 141B. All four of us use four significant datasets, so we divided the project into four parts. You can view our project by simply clicking on the 4 parts that are listed below:</p>
 
-1. [Earthquakes in the World](https://github.com/karthikapai/earthquakes/blob/master/Earthquakes%20in%20the%20World%20(Part%201).ipynb)
+1. [Earthquakes in the World (introduction included)](https://kathy940411.github.io/KathrynChiang/project_part1/world)
 
-2. [Earthquakes in the USA](https://github.com/karthikapai/earthquakes/blob/master/Earthquake_in_the_USA_part2.ipynb)
+2. [Earthquakes in the USA](https://kathy940411.github.io/KathrynChiang/project_part2/usa)
 
-3. [Correlation Between Earthquakes and Tsunamis](https://github.com/karthikapai/earthquakes/blob/master/project-part-3.ipynb)
+3. [Correlation Between Earthquakes and Tsunamis](https://kathy940411.github.io/KathrynChiang/project_part3/tsunami)
 
-4. [Correlation Between Earthquakes and Volcanos](https://github.com/karthikapai/earthquakes/blob/master/141b_final_part42.ipynb)
+4. [Correlation Between Earthquakes and Volcanos](https://kathy940411.github.io/KathrynChiang/project_part4/volcano)
 
 ### Assignments
 
