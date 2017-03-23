@@ -12,17 +12,17 @@ github: https://github.com/kathy940411
 
 ### Projects
 
-__Exploratory Data Analysis Project__
+__[Exploratory Data Analysis Project](https://kathy940411.github.io/KathrynChiang/final_project/final_project)__
 <p>
-This is our final project for STA 141B. I worked with three other group members, Karthika Pai, An Qi Ma, and Natalie Marcom for this project. The project is focusing on earthquakes. We thought of some different questions about earthquakes. Our goal is to answer these questions by using the skills we learned in STA 141B. All four of us use four significant datasets, so we divided the project into four parts. You can view our project by simply clicking on the 4 parts that are listed below:</p>
+This is our final project for STA 141B. I worked with three other group members, Karthika Pai, An Qi Ma, and Natalie Marcom for this project. The project is focusing on earthquakes. We thought of some different questions about earthquakes. Our goal is to answer these questions by using the skills we learned in STA 141B. All four of us use four significant datasets, so we divided the project into four parts listed below:</p>
 
-1. [Earthquakes in the World (introduction included)](https://kathy940411.github.io/KathrynChiang/project_part1/world)
+1. Earthquakes in the World
 
-2. [Earthquakes in the USA](https://kathy940411.github.io/KathrynChiang/project_part2/usa)
+2. Earthquakes in the USA
 
-3. [Correlation Between Earthquakes and Tsunamis](https://kathy940411.github.io/KathrynChiang/project_part3/tsunami)
+3. Correlation Between Earthquakes and Tsunamis
 
-4. [Correlation Between Earthquakes and Volcanos](https://kathy940411.github.io/KathrynChiang/project_part4/volcano)
+4. Correlation Between Earthquakes and Volcanos
 
 ### Assignments
 
