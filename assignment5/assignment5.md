@@ -572,6 +572,3 @@ plotrr(r1,r2)
 This corpus can be the representative of the most recent Aggie News, since the News catagory only contains Campus News and City News. Also, since we are only including the first 60 news from both Campus and City news, this means that the news are all up to date and recent.</p>
 
 
-```python
-
-```
