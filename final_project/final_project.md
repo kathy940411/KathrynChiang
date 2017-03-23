@@ -6946,7 +6946,7 @@ df_volc.head(10)
 
 
 
-<h1>Where are the volcanos located? Are they near tetonic plates?<h1>
+### Where are the volcanos located? Are they near tetonic plates?
 
 
 ```python
@@ -6994,7 +6994,7 @@ However, besides plotting the volcanos on a map, let us take it a step further a
 
 ---------
 
-<h1><u><center>How many of the volcanos have had eruptions that were associated with earthquakes?</center></h1></u>
+### How many of the volcanos have had eruptions that were associated with earthquakes?
 
 
 ```python
@@ -7940,7 +7940,6 @@ data
 
 
 
-
 ```python
 def plot_map2(lons, lats, elevations, llcrnrlat = -80, urcrnrlat = 90, llcrnrlon = -180, urcrnrlon = 180,resolution = 'i', projection='mill', lat_0 = 39.5, lon_0 = 1,min_marker_size=5):
     bins = np.linspace(0, elevations.max(), 10)
@@ -7997,7 +7996,7 @@ The red triangles indicate the volcanos, and the blue squares indicate the volca
 
 -----------
 
-<h1><center><u>Closer Examination of Volcano Eruptions with Associated Earthquakes</h1></u></center>
+### Closer Examination of Volcano Eruptions with Associated Earthquakes
 
 Let's examine the different types of volcanos as well as the top 10 countries that had the most volcanic eruptions with associated earthquakes. Is there a particular region that had the most volcano eruptions?
 
@@ -8008,7 +8007,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 ```
 
-<h3>Is there a type of Volcano that is more frequent with eruptions?</h3>
+### Is there a type of Volcano that is more frequent with eruptions?
 
 
 ```python
@@ -8028,7 +8027,7 @@ plt.show()
 
 We see that stratovolcanos (for instance Mount St.Helens, is a stratovolcano) had the overall highest frequency of volcanic eruptions, and by a large proportion.
 
-<h3> Which country has had volcanic eruptions the most?</h3>
+### Which country has had volcanic eruptions the most?
 
 
 ```python
@@ -8042,15 +8041,15 @@ plt.show()
 
 We see that the United States and Japan have an equal amount of volcanic eruptions that had associations with earthquakes.
 
-<h5>Due to the lack of magnitude observation, from the NOAA data (which gave an option of volcanic eruptions with association of earthquakes), a goal is to have a better observation of more detailed variables to help establish a correlatiopn between earthquakes and volcanic eruptions. However, because this is a topic that scientists are still debating, and many do not see an exact correlation between the two, we will take a different approach that may lead us to answers that we are looking for, which is establishing a correlation between earthquakes and volcanos.
+##### Due to the lack of magnitude observation, from the NOAA data (which gave an option of volcanic eruptions with association of earthquakes), a goal is to have a better observation of more detailed variables to help establish a correlatiopn between earthquakes and volcanic eruptions. However, because this is a topic that scientists are still debating, and many do not see an exact correlation between the two, we will take a different approach that may lead us to answers that we are looking for, which is establishing a correlation between earthquakes and volcanos.
 
-<h2><center>Using data concerning earthquakes occurring close to volcanos</center></h2>
+## Using data concerning earthquakes occurring close to volcanos
 
-<h1><center><u>Examining link between Earthquakes and Volcanic eruptions</u></center></h1>
+# Examining link between Earthquakes and Volcanic eruptions
 
 As stated before, scientists still are debating whether earthquakes and volcanic eruptions are connected or not, and there is a lack of information available that proved that the two are substantially linked to one or the other. However, I have found enough data indicating that earthquakes do occur near volcanos, which can suggest that it is *possible* for earthquakes and volcanos to be somewhat linked.
 
-<h2>Is it possible for earthquakes and volcanos to come into close contact with one another?<h2>
+## Is it possible for earthquakes and volcanos to come into close contact with one another?
 
 
 ```python
@@ -8075,7 +8074,7 @@ eqdata1 = eqdata.convert_objects(convert_numeric=True)
       app.launch_new_instance()
 
 
-<h2><center><u>Feb and March 2017 Earthquakes near Volcano data:</u></h2></center>
+## Feb and March 2017 Earthquakes near Volcano data:
 
 
 ```python
@@ -8688,7 +8687,6 @@ def earth_near(lons, lats, magnitude, min_marker_size=2):
 
 ```
 
-<center><b><u>Legend for Plot</u></b>:</center><table><td><b><center>Symbol</b></center><td><b>Meaning</b><tr><td><b>*</b><td>Earthquake<tr><td><b>o</b><td>Volcano<tr><td><b>Line</b><td>Plate boundary</table></tr></td>
 
 
 ```python
@@ -8709,7 +8707,7 @@ We see that they are quite close to tetonic plates. The white stars are the eart
 
 ----------
 
-<h2> Where are these earthquakes happening the most?</h2>
+## Where are these earthquakes happening the most?
 
 
 ```python
@@ -8732,7 +8730,7 @@ For Top 3 (out of 10) : We see that New Zealand has had the most earthquakes, fo
 
 ------------------
 
-<h2>Is there a specific magnitude that is happening more frequently?</h2>
+## Is there a specific magnitude that is happening more frequently?
 
 
 ```python
