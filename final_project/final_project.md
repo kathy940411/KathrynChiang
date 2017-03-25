@@ -9250,7 +9250,7 @@ plt.show()
 
 Since we do not know whether the earthquakes are caused by magma movement or are simply regular earthquakes, we can not say whether these earthquakes are related to volcanic eruptions. However, typically earthquakes before a volcanic eruption happen in many clusters. However, ones that are very close in my mind would raise some speculation.
 
-<b>CONCLUSION</b>
+<h2>Conclusion</h2>
 
 There is not enough scientific evidence, or data to link earthquakes and volcano eruptions as being statistically significant to one another. More specifically, if an Earthquake can cause a volcanic eruption. While scientists are still debating the connection between the two, there is evidence that earthquakes occur (and rather frequently) near volcanos. With that information given, this brings the possibility that it is possible for earthquakes and volcanos to correlate with one another.
 
