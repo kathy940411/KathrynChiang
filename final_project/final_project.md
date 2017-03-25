@@ -8687,12 +8687,12 @@ def earth_near(lons, lats, magnitude, min_marker_size=2):
 
 ```
 
-##### Legend for Plot:
-<p>* means Earthquake</p>
-
-<p>o means Volcano</p>
-
-<p>Line means Plate Boundary</p>
+### Legend for Plot:
+| Symbol        | Meaning       |
+|:-------------:|:------------- |
+| *      | Earthquake |
+| o      | Volcano      |
+| Line   | Plate Boundary|
 
 ```python
 plt.figure(figsize=(15, 12))
