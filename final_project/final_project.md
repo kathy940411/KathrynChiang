@@ -8688,6 +8688,7 @@ def earth_near(lons, lats, magnitude, min_marker_size=2):
 ```
 
 ### Legend for Plot:
+
 | Symbol        | Meaning       |
 |:-------------:|:------------- |
 | *      | Earthquake |
